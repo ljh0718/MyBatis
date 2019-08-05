@@ -4,7 +4,7 @@ Navicat MySQL Data Transfer
 Source Server         : 本地
 Source Server Version : 50528
 Source Host           : 127.0.0.1:3306
-Source Database       : restful_crud
+Source Database       : restful_crud 
 
 Target Server Type    : MYSQL
 Target Server Version : 50528
