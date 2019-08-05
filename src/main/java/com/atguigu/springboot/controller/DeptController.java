@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * @author Mr.Z
  * @create 2019/8/5 14:26
+ * 用来简单的测试
  */
 @Controller
 public class DeptController {
