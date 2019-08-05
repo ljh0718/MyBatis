@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @author Mr.Z
  * @create 2019/8/3 17:00
+ * 此类为Druid数据源的配置文件类
  */
 @Configuration
 public class DruidConfig {
