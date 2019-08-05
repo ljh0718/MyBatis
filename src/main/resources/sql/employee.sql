@@ -8,7 +8,7 @@ Source Database       : restful_crud
 
 Target Server Type    : MYSQL
 Target Server Version : 50528
-File Encoding         : 65001
+File Encoding         : 65001 
 
 Date: 2018-03-05 10:41:58
 */
