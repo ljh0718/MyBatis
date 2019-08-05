@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * @author Mr.Z
  * @create 2019/8/5 14:19
- * 此接口为MyBatis的注解版接口
+ * 此接口为MyBatis的注解版接口 
  */
 //@Mapper
 public interface DepartmentMapper {
